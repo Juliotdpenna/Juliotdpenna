@@ -28,4 +28,4 @@ Olá! Meu nome é Júlio César! Atualmente cursando Gestão da Tecnologia da In
  
 ### [RBAC Manager](https://github.com/Juliotdpenna/projeto-rbac)
  
-Plataforma de gerenciamento de controle de acesso baseado em papéis (RBAC), criada para praticar na prática conceitos de Segurança da Informação, como IAM. Reúne cadastro de usuários, papéis e permissões, com back-end em **Python** e **SQLite** e interface web em **React** (**Vite**).
+Plataforma de gerenciamento de controle de acesso baseado em papéis (RBAC), criada para praticar conceitos de Segurança da Informação, como IAM. Reúne cadastro de usuários, papéis e permissões, com back-end em **Python** e **SQLite** e interface web em **React** (**Vite**).
